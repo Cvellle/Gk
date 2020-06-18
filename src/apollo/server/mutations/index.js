@@ -1,5 +1,0 @@
-export { LOGIN_USER, CREATE_POTENTIAL_USER, CREATE_USER, EDIT_USER } from './user'
-export { CREATE_LECTURE } from './lecture'
-export { CREATE_PRODUCT } from './product'
-export { CREATE_MEETING } from './meetings'
-export { STREAM_GENERATE_TOKEN } from './stream'
